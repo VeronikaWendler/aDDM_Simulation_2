@@ -8,8 +8,7 @@
 % 4. threshold
 % 5. Probability of looking at option A
 % 6. theta: Impact of attention 
-% - Simulate data for 10-70 subjects with 20-50 trials/conditions. So far, 9 conditions are
-% created:
+% - Simulate data for 10-70 subjects with 20-50 trials/conditions. 
 % 1. Va = 3, Vb = 1 (OV = 4, VD =2)
 % 2. Va = 6, Vb = 2 (OV = 8, VD =4)
 % 3. Va = 8, Vb = 4 (OV = 12, VD =4)
